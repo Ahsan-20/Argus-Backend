@@ -867,3 +867,9 @@ Stated plainly, because a tool you cannot trust the boundaries of is not useful.
 - **Confidence is the model's own estimate**, not a calibrated probability. This
   is why an alert is never sent below 70 regardless of what the number says.
 - **Free tier limits**: 5 watchers per account, 25 running across the deployment.
+
+---
+
+## License
+
+[MIT](LICENSE). Free to read, run, and build on.
