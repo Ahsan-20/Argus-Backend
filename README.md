@@ -28,7 +28,7 @@ You can create an account and use it straight away. There is no inbox detour
 first: a new account works for 24 hours before it needs confirming, though the
 confirmation email will be waiting for you.
 
-There are also **six shared watchers** on real websites in the *Shared* tab.
+There are also **shared watchers** on real websites in the *Shared* tab.
 Copy one into your own account with a single tap to see a working watcher without
 writing anything.
 
@@ -91,7 +91,7 @@ and the tracked value, so nothing has to be taken on trust.
 
 ### The dollar example, as it actually runs
 
-This is one of the six shared watchers, live in the app right now:
+This is one of the shared watchers, live in the app right now:
 
 | | |
 |---|---|
